@@ -7,8 +7,8 @@ code at the [repository](https://github.com/siemens/django-mantis-malte/) of the
 For more details, check out our paper where we describe how MANTIS can be
 used to collect and analyze large-scale threat intelligence data:
 
-[**Mining Attributed Graphs for Threat
+*[**Mining Attributed Graphs for Threat
 Intelligence**](http://www.hugogascon.com/publications/2017-codaspy.pdf)  
 Hugo Gascon, Bernd Grobauer, Thomas Schreck, Lukas Rist, Daniel Arp and Konrad Rieck  
 Proc of 7th. ACM Conference on Data and Applications Security and Privacy (CODASPY)  
-March 2017
+March 2017*
